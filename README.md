@@ -1,2 +1,2 @@
 # Analytic-Hub
-This repository contains practice code for various data analytics path ways.
+This repository contains source code related to data analytics. Do check and share your feedback. Feedbacks are appreciated. 
