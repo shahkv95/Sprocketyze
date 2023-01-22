@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 pandas = "*"
+faker = "*"
+requests = "*"
+pydantic = "*"
 
 [dev-packages]
 
